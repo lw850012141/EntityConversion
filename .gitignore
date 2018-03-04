@@ -20,3 +20,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/
+EntityConversion.iml
+pom.xml
+src/main/java/com/awelee/App.java
+src/main/java/com/awelee/conversion/
+src/main/java/com/awelee/enums/
+src/main/java/com/awelee/pojo/po/PersistentObject.java
+src/main/java/com/awelee/pojo/vo/
+src/main/java/com/awelee/utils/
+src/test/
+target/generated-sources/
+target/generated-test-sources/
